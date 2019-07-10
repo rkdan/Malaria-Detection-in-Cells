@@ -1,1 +1,3 @@
-# Malaria-Detection-in-Cells
+# Malaria Detection in Cells
+
+$ \int_0^{\inf}dt
